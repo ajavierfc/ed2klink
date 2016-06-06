@@ -9,6 +9,6 @@ It's published here without any warranty and I don't take responsability about f
 You can watch it working in this forum: http://forum.animelliure.net/viewforum.php?f=10
 
 
-* INSTALL *
+* INSTALL
 
 Download as zip and install as a regular extension.
