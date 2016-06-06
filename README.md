@@ -1,4 +1,4 @@
-# ed2klink
+# No validated ed2k link processor extension for phpBB 3.1+
 NOT VALIDATED ed2k link processor extension for phpBB 3.1+ forums, based in the original MOD for previous versions.
 
 This extension doesn't pass the phpBB official validation process, and I wont do further work on it.
