@@ -11,4 +11,4 @@ You can watch it working in this forum: http://forum.animelliure.net/viewforum.p
 
 * INSTALL *
 
-Extract biterror.zip and install as a regular extension.
+Download as zip and install as a regular extension.
