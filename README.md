@@ -7,3 +7,8 @@ It's published here without any warranty and I don't take responsability about f
 
 
 You can watch it working in this forum: http://forum.animelliure.net/viewforum.php?f=10
+
+
+* INSTALL *
+
+Extract biterror.zip and install as a regular extension.
