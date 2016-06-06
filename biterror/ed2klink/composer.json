@@ -1,0 +1,40 @@
+{
+    "name": "biterror/ed2klink",
+    "type": "phpbb-extension",
+    "description": "Process ed2k links in the post_text",
+    "homepage": "",
+    "version": "1.0.0",
+    "time": "2016-01-12",
+    "keywords": [
+        "phpbb",
+        "extension",
+        "ed2k links are processed"
+    ],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Javier Fernandez",
+            "homepage": "http://twitter.com/ajavierfc",
+            "email": "ajavierfc@gmail.com",
+            "role": "Lead Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "composer/installers": "~1.0"
+    },
+    "require-dev": {
+        "phpbb/epv": "dev-master"
+    },
+    "extra": {
+        "display-name": "ED2K Links are Processed",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.1.0-RC2,<3.2.*@dev"
+        },
+        "version-check": {
+            "host": "www.phpbb.com",
+            "directory": "/customise/db/extension/ed2klink",
+            "filename": "version_check"
+        }
+    }
+}

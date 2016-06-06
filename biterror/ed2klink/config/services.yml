@@ -1,0 +1,13 @@
+imports:
+    - { resource: ed2kimages.yml }
+
+services:
+    biterror.ed2klink.listener:
+        class: biterror\ed2klink\event\listener
+        arguments:
+            - @config
+            - @request
+            - @user
+            - %biterror.ed2klink.imagepath%
+        tags:
+            - { name: event.listener }
